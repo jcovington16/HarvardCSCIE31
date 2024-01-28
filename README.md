@@ -7,4 +7,4 @@ The description of this assignment can be found [in Canvas at Assignment #1](htt
 You should build your application in this repo cloned for you in Github Classroom. You'll submit your Digital Ocean URL and github URL in Canvas.
 
 
-*** Joshua Covington added this line ***
+*** Joshua Covington added this line! ***
