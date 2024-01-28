@@ -4,5 +4,5 @@ var server = http.createServer(function(req, res) {
     res.write("Joshua Covington did this!!");
     res.end();
 });
-server.listen(8080);
-console.log("Listening on http://127.0.0.1:8080/");
+server.listen(3000);
+console.log("Listening on http://127.0.0.1:3000/");
